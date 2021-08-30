@@ -1,0 +1,6 @@
+hub cyverse_g4500
+shortLabel g4500
+longLabel this is the g4500 hub longLabel
+genomesFile genomes.txt
+email nhatnguyen@genesolutions.vn
+descriptionUrl  https://de.cyverse.org
